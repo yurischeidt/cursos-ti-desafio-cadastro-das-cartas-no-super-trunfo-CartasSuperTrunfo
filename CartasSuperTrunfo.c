@@ -101,8 +101,6 @@ int Ponto2;
 
 
 
-
-
 /*
 REFERÊNCIA
 printf(“%formato1 %formato2”, variável1, variável2);
@@ -121,4 +119,3 @@ printf(“%formato1 %formato2”, variável1, variável2);
 */
 }
 
-}
