@@ -122,14 +122,14 @@ printf(“%formato1 %formato2”, variável1, variável2);
 
 %d: Imprime um inteiro no formato decimal. INT
  
-%i: Equivalente a %d.
+%i: Equivalente a %d
  
 %f: Imprime um número de ponto flutuante no formato padrão.
  
 %e: Imprime um número de ponto flutuante na notação científica.
  
 %c: Imprime um único caractere.
-
+ 
 %s: Imprime uma cadeia (string) de caracteres.
 */
 }
